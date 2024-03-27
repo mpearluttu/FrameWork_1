@@ -1,3 +1,4 @@
 test data
 
 Create new test data
+Test the merge conflict
