@@ -8,4 +8,7 @@ public class CreateCategoryPage
 		System.out.println("Hello world");
 
 		}
+	{
+		System.out.println("Hello world statement 1");
+	}
 }
