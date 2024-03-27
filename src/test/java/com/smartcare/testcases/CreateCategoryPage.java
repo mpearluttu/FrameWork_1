@@ -4,6 +4,8 @@ public class CreateCategoryPage
 {
 	public void crate()
 
-	{
+		{
+		System.out.println("Hello world");
+
 		}
 }
